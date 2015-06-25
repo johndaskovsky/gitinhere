@@ -1,4 +1,3 @@
-
 console.log("testing");
 // test change
 
@@ -9,3 +8,6 @@ var describe = function (){
   console.log('second');
   console.log('third');
 }
+
+var test = "test";
+console.log(test);

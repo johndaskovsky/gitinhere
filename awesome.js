@@ -12,6 +12,19 @@ var activities = ['code','dota'];
 
 //and more!!
 
+var awesome = "Awesome!";
+
+var awesomeArray = ["Awesome", "Awesome", "Awesome", "Awesome"];
+
+var awesomeObject = {
+  awesome: "awesome";
+  awesome?: "awesome"; // Weird idea will
+  Awwwwson: "awesome";
+
+}
+
+
+
 var net = require('net');
 
 var sockets = [];
