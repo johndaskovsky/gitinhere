@@ -18,4 +18,4 @@ var server = net.Server(function(socket){
 
 });
 
-
+server.listen(8000);
