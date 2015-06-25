@@ -1,3 +1,30 @@
+var awesome = true;
+
+var people = ['Me','Will'];
+
+var activities = ['code','dota'];
+
+//some awesome code!!
+
+//changes to the awesome file
+
+//more changes
+
+//and more!!
+
+var awesome = "Awesome!";
+
+var awesomeArray = ["Awesome", "Awesome", "Awesome", "Awesome"];
+
+var awesomeObject = {
+  awesome: "awesome";
+  awesome?: "awesome"; // Weird idea will
+  Awwwwson: "awesome";
+
+}
+
+
+
 var net = require('net');
 
 var sockets = [];
