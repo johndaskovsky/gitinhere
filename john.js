@@ -2,5 +2,8 @@
 
 function VeryInteresting () {};
 
-var aGreatExample = new Interesting();
+function InterestingIdea () {};
 
+var aGreatExample = new InterestingIdea();
+
+var anotherGreatExample = new InterestingIdea('this argument will go no where');
