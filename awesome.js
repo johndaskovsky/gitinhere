@@ -1,6 +1,6 @@
 var awesome = true;
 
-var people = ['Me','Will'];
+var people = ['Me','Will','John'];
 
 var activities = ['code','dota'];
 
@@ -18,8 +18,9 @@ var awesomeArray = ["Awesome", "Awesome", "Awesome", "Awesome"];
 
 var awesomeObject = {
   awesome: "awesome";
-  awesome?: "awesome"; // Weird idea will
+  awesomeQuestionMark: "awesome";
   Awwwwson: "awesome";
+  awwwwDang: "THIS ISN'T MY WORLD.";
 
 }
 
