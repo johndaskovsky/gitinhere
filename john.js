@@ -4,3 +4,4 @@ function Interesting () {};
 
 var aGreatExample = new Interesting();
 
+var anotherGreatExample = new Interesting('this argument will go no where');
