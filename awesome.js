@@ -1,5 +1,9 @@
 var awesome = true;
 
+var cool = 'very true';
+
+var messy = 'somewhat true';
+
 var people = ['Me','Will', 'John', 'Brendan', 'Faraji', 'Illy'];
 
 var activities = ['code','dota', 'git', 'walk'];
