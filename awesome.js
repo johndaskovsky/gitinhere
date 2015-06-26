@@ -53,6 +53,7 @@ server.listen(8000);
 var o = "water"; // water
 var M = "land"; // land
 
+
 var board = [ 
   [o,o,o,o,M,o,o,o,o,o],
   [o,o,o,M,M,o,o,o,o,o],
