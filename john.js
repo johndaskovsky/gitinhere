@@ -1,7 +1,7 @@
 // a great example of something interesting will follow here:
 
-function Interesting () {};
+function InterestingIdea () {};
 
-var aGreatExample = new Interesting();
+var aGreatExample = new InterestingIdea();
 
-var anotherGreatExample = new Interesting('this argument will go no where');
+var anotherGreatExample = new InterestingIdea('this argument will go no where');
