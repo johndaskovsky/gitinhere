@@ -1,1 +1,1 @@
-var git = 'Git in here';
+var git = 'Git OUT of here';
