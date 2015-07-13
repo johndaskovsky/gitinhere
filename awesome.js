@@ -25,6 +25,8 @@ var awesomeObject = {
   awesomeQuestionMark: "awesome";
   Awwwwson: "awesome";
   awwwwDang: "THIS ISN'T MY WORLD.";
+  Awesome2.0: "awesome";
+  Owlsome: "awesome";
 
 }
 
