@@ -8,6 +8,8 @@ var people = ['Me','Will', 'John', 'Brendan', 'Faraji', 'Illy'];
 
 var activities = ['code','dota'];
 
+var onPoint = 'always';
+
 //some awesome code!!
 
 //changes to the awesome file
@@ -25,6 +27,8 @@ var awesomeObject = {
   awesomeQuestionMark: "awesome";
   Awwwwson: "awesome";
   awwwwDang: "THIS ISN'T MY WORLD.";
+  Awesome2.0: "awesome";
+  Owlsome: "awesome";
 
 }
 
