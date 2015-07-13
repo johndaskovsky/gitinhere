@@ -1,2 +1,2 @@
-var will = "will";
+var will = "Will";
 console.log(will + will);
