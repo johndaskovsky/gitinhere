@@ -8,6 +8,8 @@ var people = ['Me','Will', 'John', 'Brendan', 'Faraji', 'Illy'];
 
 var activities = ['code','dota'];
 
+var onPoint = 'always';
+
 //some awesome code!!
 
 //changes to the awesome file
